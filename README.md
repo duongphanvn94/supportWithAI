@@ -1,0 +1,2 @@
+# supportWithAI
+mysql, nodejs, nextjs
