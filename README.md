@@ -1,2 +1,2 @@
 # supportWithAI
-mysql, nodejs, nextjs
+mysql, nextjs
